@@ -50,7 +50,7 @@ Our goal is simple:
 
 ---
 
-## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Technologies We Love
+## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Technologies We Love Building With:
 
 <p align="center">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,cpp,gtk,javascript,html,css,supabase&theme=dark"/>
