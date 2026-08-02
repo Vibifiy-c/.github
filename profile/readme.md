@@ -47,13 +47,9 @@ Our goal is simple:
 ## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Technologies We Love Building With:
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/rust/DC2626" width="72" title="Rust"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" title="C++"/>
-  <img src="https://skillicons.dev/icons?i=gtk,github,python,bash,nodejs,electron" width="420"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="64" title="Supabase"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,cpp,python,bash,nodejs,electron,js,html,css,supabase,gtk,github" />
+  </a>
 </p>
 
 We build our projects using modern technologies chosen for performance, reliability, and developer experience. From low-level systems programming in Rust and C++ to modern web technologies and AI-powered applications, we choose the right tool for the job while keeping our software open and accessible.
