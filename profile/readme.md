@@ -120,10 +120,31 @@ We believe software freedom becomes stronger when improvements remain open for e
 
 ## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| **Vibiclaw** | An open-source AI coding assistant built primarily with **Rust**, **GTK**, **JavaScript**, **HTML**, and **CSS**. It features a modern integrated code editor, permission-aware agentic workflows, and a clean desktop experience designed to help developers code faster while remaining in complete control. |
-| **VibiPass** | A privacy-first password and secure information manager built with strong local encryption. Your data stays on your device, giving you complete ownership of your passwords, notes, and sensitive information. |
+### Vibiclaw
+
+An open-source AI coding assistant focused on developer productivity and transparency. Built with Rust and GTK, Vibiclaw combines a modern desktop experience with permission-aware AI workflows, giving developers powerful assistance while keeping them firmly in control.
+
+**Built with:** 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,gtk,js,css,github" />
+  </a>
+</p>
+
+---
+
+### VibiPass
+
+A privacy-first password and secure information manager designed around local encryption. Your passwords, notes, and sensitive information stay on your device, giving you complete ownership over your data.
+
+**Built with:** 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,js,python,bash,github" />
+  </a>
+</p>
 
 ---
 
