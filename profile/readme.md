@@ -149,17 +149,6 @@ Every contribution matters.
 
 ---
 
-## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Our Stack
-
-At Vibifiy, we enjoy building software across the entire stack.
-
-- ⚙️ Native desktop applications with **Rust** and **GTK**
-- 🗄️ Backend services powered by **Supabase**
-- 🚀 High-performance software using **Rust** and **C++**
-- 🤖 AI-powered tools designed for developers
-- 🌍 Everything released as **Open Source**
----
-
 ## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Connect
 
 - **Website:** https://vibifiy.js.org
