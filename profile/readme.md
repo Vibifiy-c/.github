@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" alt="Vibifiy Logo" width="180">
-</p>
 
 <h1 align="center">Vibifiy</h1>
 
