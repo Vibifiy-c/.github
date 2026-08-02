@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Vibifiy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Software%20That%20Belongs%20to%20Everyone&descAlignY=55"/>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Open+Source.;AI+Developer+Tools.;Privacy+First.;Built+in+Public.;Copyleft+Forever."/>
+</p>
+
 
 <p align="center">
 Building modern Open Source software, AI tools, and developer experiences for everyone.
