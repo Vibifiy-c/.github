@@ -92,8 +92,8 @@ Open source grows when everyone gives back.
 
 | Project | Description |
 |---------|-------------|
-| **Vibiclaw** | Fast and modern web framework written in Rust. |
-| **More coming soon...** | AI tools, developer utilities, and open-source projects currently in development. |
+| **Vibiclaw** | Fast and modern Agentic application which vibe codes for you with permissions yes or no questions framework written in Rust. |
+| **VibiPass** | A secure password manager and secere information app which is highly encrypted and is stored locally! . |
 
 ---
 
@@ -109,7 +109,7 @@ Every contribution helps make open source stronger.
 
 - **Website:** https://vibifiy.js.org
 - **GitHub:** https://github.com/Vibifiy-c
-- **Email:** vibifiy@gmail.com
+- **Email:** vibifiyy@gmail.com
 
 ---
 
