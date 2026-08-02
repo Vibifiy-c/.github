@@ -153,10 +153,7 @@ Every contribution matters.
 
 At Vibifiy, we enjoy building software across the entire stack.
 
-- ⚙️ Native desktop applications with <img src="https://cdn.simpleicons.org/rust/DC2626" width="50" title="Rust"/> and <img src="https://skillicons.dev/icons?i=gtk" width="50"/>
-
-
-- 🌐 Modern web interfaces with **HTML**, **CSS**, and **JavaScript**
+- ⚙️ Native desktop applications with **Rust** and **GTK**
 - 🗄️ Backend services powered by **Supabase**
 - 🚀 High-performance software using **Rust** and **C++**
 - 🤖 AI-powered tools designed for developers
