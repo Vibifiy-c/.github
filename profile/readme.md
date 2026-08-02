@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" alt="Vibifiy Logo" width="170">
+  <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" alt="Vibifiy Logo" width="180">
 </p>
 
 <h1 align="center">Vibifiy</h1>
 
 <p align="center">
-Building awesome Open Source software, AI tools, and developer experiences for everyone.
+Building modern Open Source software, AI tools, and developer experiences for everyone.
 </p>
 
 <p align="center">
@@ -13,99 +13,128 @@ Building awesome Open Source software, AI tools, and developer experiences for e
     <img src="https://img.shields.io/badge/GitHub-Vibifiy--c-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://vibifiy.js.org">
-    <img src="https://img.shields.io/badge/Website-vibifiy.js.org-5C4EE5?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Website-vibifiy.js.org-6C63FF?style=for-the-badge">
   </a>
   <img src="https://img.shields.io/badge/Open%20Source-100%25-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Copyleft-Licensed-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Copyleft-Licensed-3A86FF?style=for-the-badge">
 </p>
 
 ---
 
 At **Vibifiy**, we believe software should belong to everyone.
 
-We create modern developer tools, AI-powered applications, libraries, and utilities that are **fully open source**, transparent, and accessible. Every project is built in public so anyone can learn from it, contribute to it, modify it, or build something even better.
+We build modern developer tools, AI-powered applications, desktop software, libraries, and utilities that are completely open source. Every project is developed in public, allowing anyone to inspect the code, learn from it, contribute improvements, or build something entirely new.
 
-Our mission is simple:
+Our goal is simple:
 
-> **Create software that empowers developers instead of locking them in.**
+> **Build software that empowers developers through openness, transparency, and freedom.**
 
 ---
 
-## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="24" align="center"> What We Build
+## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> What We Build
 
-- Open Source applications
-- AI-powered tools
-- Developer utilities
-- Command-line applications
-- Libraries & SDKs
+- AI-powered developer tools
+- Desktop applications
+- Open Source libraries
+- Command-line utilities
 - Automation tools
+- Developer SDKs
+- Privacy-focused software
 - Experimental projects
 - Educational resources
 
 ---
 
-## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="24" align="center"> Core Principles
+## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Our Philosophy
 
-- Everything is built in public.
-- Source code is available to everyone.
-- No vendor lock-in.
-- Clean, readable code.
-- Community-first development.
-- Privacy and transparency by default.
-- Learning is encouraged through open code.
+Technology should be open, understandable, and accessible.
+
+We believe developers deserve software they can inspect, modify, improve, and truly own. Great software grows through communities, not closed ecosystems.
+
+Every Vibifiy project is built with these ideas at its core.
 
 ---
 
-## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="24" align="center"> Open Source First
+## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Core Principles
 
-Every Vibifiy project is released with the belief that software should be inspectable, modifiable, and shareable.
-
-Whether you're a beginner exploring how something works or an experienced developer looking to contribute, our repositories are open for everyone.
-
-We welcome:
-
-- Bug reports
-- Pull requests
-- Feature suggestions
-- Documentation improvements
-- Security reports
-- Community discussions
+- Open Source by default
+- Built completely in public
+- Community-driven development
+- Privacy and transparency first
+- Clean, maintainable code
+- No vendor lock-in
+- Open standards whenever possible
+- Learning through open code
 
 ---
 
-## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="24" align="center"> Copyleft Licensed
+## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Open Source First
 
-Our projects are released under **Copyleft licenses**.
+Every repository published by Vibifiy is intended to be a place where developers can learn, contribute, and collaborate.
 
-That means:
+Whether you're fixing a typo, reporting a bug, implementing a new feature, or simply exploring the codebase, you're always welcome.
 
-- Everyone can use the software.
-- Everyone can modify it.
-- Everyone can redistribute it.
-- Improvements remain open for future developers.
+We encourage:
 
-Open source grows when everyone gives back.
+- Pull Requests
+- Feature Suggestions
+- Bug Reports
+- Security Reports
+- Documentation Improvements
+- Community Discussions
 
 ---
 
-## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="24" align="center"> Featured Repositories
+## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Copyleft
+
+Software should stay free.
+
+Vibifiy projects are released under **Copyleft licenses**, ensuring that software remains open not only today, but for future developers as well.
+
+That means everyone can:
+
+- Use our software
+- Study the source code
+- Modify it
+- Redistribute it
+- Share improvements with the community
+
+We believe software freedom becomes stronger when improvements remain open for everyone.
+
+---
+
+## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| **Vibiclaw** | Fast and modern Agentic application which vibe codes for you with permissions yes or no questions and builtin code editor. framework written in Rust with GTK box along with  Javascript & Cadscating Style Sheets . |
-| **VibiPass** | A secure password manager and secere information app which is highly encrypted and is stored locally! . |
+| **Vibiclaw** | An open-source AI coding assistant written primarily in Rust with GTK. It features a modern built-in code editor, permission-based command execution, and an intelligent agentic workflow that helps developers write, modify, and understand code while always keeping the user in control. |
+| **VibiPass** | A secure, privacy-first password and sensitive information manager. Your data is encrypted locally and never leaves your device, giving you complete ownership and control over your secrets. |
 
 ---
 
-## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="24" align="center"> Join the Community
+## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Why Vibifiy?
 
-Whether you're fixing a typo, building an entirely new feature, or simply exploring our code, you're welcome here.
+We aren't building software for profit first.
 
-Every contribution helps make open source stronger.
+We're building software because we believe knowledge should be shared, tools should be accessible, and developers deserve software they can trust.
+
+Open source isn't simply how we publish code.
+
+It's how we think.
 
 ---
 
-## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="24" align="center"> Connect
+## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Join the Community
+
+Whether you're an experienced contributor or writing your first pull request, there's a place for you at Vibifiy.
+
+Help improve documentation, fix bugs, suggest features, review code, or simply explore our projects.
+
+Every contribution matters.
+
+---
+
+## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Connect
 
 - **Website:** https://vibifiy.js.org
 - **GitHub:** https://github.com/Vibifiy-c
@@ -114,9 +143,13 @@ Every contribution helps make open source stronger.
 ---
 
 <p align="center">
-  <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="60">
+    <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="70">
 </p>
 
+<h3 align="center">
+Building software that belongs to everyone.
+</h3>
+
 <p align="center">
-<b>Open Source. AI. Built for Everyone.</b>
+Open Source • AI • Developer Tools
 </p>
