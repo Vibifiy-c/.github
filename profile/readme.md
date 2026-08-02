@@ -92,7 +92,7 @@ Open source grows when everyone gives back.
 
 | Project | Description |
 |---------|-------------|
-| **Vibiclaw** | Fast and modern Agentic application which vibe codes for you with permissions yes or no questions framework written in Rust. |
+| **Vibiclaw** | Fast and modern Agentic application which vibe codes for you with permissions yes or no questions and builtin code editor. framework written in Rust with GTK box along with  Javascript & Cadscating Style Sheets . |
 | **VibiPass** | A secure password manager and secere information app which is highly encrypted and is stored locally! . |
 
 ---
