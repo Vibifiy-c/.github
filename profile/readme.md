@@ -5,6 +5,11 @@
 <h1 align="center">Vibifiy</h1>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Vibifiy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Software%20That%20Belongs%20to%20Everyone&descAlignY=55"/>
+</p>
+
+
+<p align="center">
 Building modern Open Source software, AI tools, and developer experiences for everyone.
 </p>
 
@@ -42,6 +47,23 @@ Our goal is simple:
 - Privacy-focused software
 - Experimental projects
 - Educational resources
+
+---
+
+## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Technologies We Love
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/GTK-7FE719?style=for-the-badge&logo=gtk&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
+</p>
+
+We build our projects using modern technologies chosen for performance, reliability, and developer experience. From low-level systems programming in Rust and C++ to modern web technologies and AI-powered applications, we choose the right tool for the job while keeping our software open and accessible.
 
 ---
 
@@ -107,8 +129,8 @@ We believe software freedom becomes stronger when improvements remain open for e
 
 | Project | Description |
 |---------|-------------|
-| **Vibiclaw** | An open-source AI coding assistant written primarily in Rust with GTK. It features a modern built-in code editor, permission-based command execution, and an intelligent agentic workflow that helps developers write, modify, and understand code while always keeping the user in control. |
-| **VibiPass** | A secure, privacy-first password and sensitive information manager. Your data is encrypted locally and never leaves your device, giving you complete ownership and control over your secrets. |
+| **Vibiclaw** | An open-source AI coding assistant built primarily with **Rust**, **GTK**, **JavaScript**, **HTML**, and **CSS**. It features a modern integrated code editor, permission-aware agentic workflows, and a clean desktop experience designed to help developers code faster while remaining in complete control. |
+| **VibiPass** | A privacy-first password and secure information manager built with strong local encryption. Your data stays on your device, giving you complete ownership of your passwords, notes, and sensitive information. |
 
 ---
 
@@ -132,6 +154,18 @@ Help improve documentation, fix bugs, suggest features, review code, or simply e
 
 Every contribution matters.
 
+---
+
+## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Our Stack
+
+At Vibifiy, we enjoy building software across the entire stack.
+
+- ⚙️ Native desktop applications with **Rust** and **GTK**
+- 🌐 Modern web interfaces with **HTML**, **CSS**, and **JavaScript**
+- 🗄️ Backend services powered by **Supabase**
+- 🚀 High-performance software using **Rust** and **C++**
+- 🤖 AI-powered tools designed for developers
+- 🌍 Everything released as **Open Source**
 ---
 
 ## <img src="https://github.com/Vibifiy-c/vibifiy-website/blob/main/logo.jpg?raw=true" width="22" align="center"> Connect
