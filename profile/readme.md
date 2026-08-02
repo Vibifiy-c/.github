@@ -1,6 +1,3 @@
-
-<h1 align="center">Vibifiy</h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Vibifiy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Software%20That%20Belongs%20to%20Everyone&descAlignY=55"/>
 </p>
